@@ -1,9 +1,9 @@
 ROOT0-DLW-CHAIN-v1
 index : 127
 slug  : klein-bottle
-seal  : 520af581ca715aae04f798c34b83ea9a3b3bc23e3a9bf98c76743899c662e1e5
-prev  : 5f9a6d2ecfaf6ffd1e63c42001ef28ad575cf4a663288da8c23e8c428c132df5
-link  : f9ef0ce54ef60c28bfa21f73666b1ec463a42936a93171e7ada6b42f88a9064a
-head  : 13f9ace173ef2e60af38912ba329b4afcb5a38b84a0e4495e8d30327f8c99cc2
+seal  : fc508a13446cee824fba744ebfdf5323be3491c0aa2796cc7ca8cd0a82da3c26
+prev  : c5ba128637b25dc72cd84fce90cec9c46a4bac847f9b7433748d33b2a038c54f
+link  : f73c5736941c5d126af522f5a64a39187dafdafe731b28dc9e147b64917054b0
+head  : c4d41afeaef76470528856d54d86cf480a0e1c2fc8ebc60fbb9eb8e442585f2b
 
 — the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
